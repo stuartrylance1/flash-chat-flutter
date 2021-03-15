@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265197217321",
+    "project_id": "pulse-4-12958",
+    "storage_bucket": "pulse-4-12958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265197217321:android:b38effa537209bf722de38",
+        "android_client_info": {
+          "package_name": "co.stuartrylance.pulse4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265197217321-ulhhtpvqfdkoba0naaosvko6jo6lu5iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPu8XWjJwVadtF3MprBpyyfKCXWxbikDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265197217321-ulhhtpvqfdkoba0naaosvko6jo6lu5iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
